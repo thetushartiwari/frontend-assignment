@@ -4,28 +4,6 @@ live link-  https://frontend-assignment-sable.vercel.app/
 
 This project is a pixel-perfect recreation of a franchise management dashboard using Next.js and Tailwind CSS. The dashboard provides a comprehensive view of franchise operations, including account progress, franchisee onboarding, financial wellbeing, and prospect leads.
 
-## Project Structure
-
-\`\`\`
-franchise-dashboard/
-├── app/
-│   ├── globals.css        # Global styles
-│   ├── layout.jsx         # Root layout component
-│   └── page.jsx           # Main dashboard page
-├── components/
-│   ├── dashboard/         # Dashboard-specific components
-│   │   ├── account-progress.jsx
-│   │   ├── chat-assistant.jsx
-│   │   ├── financial-wellbeing.jsx
-│   │   ├── franchisees-onboard.jsx
-│   │   ├── key-insights.jsx
-│   │   └── prospect-leads.jsx
-│   ├── header.jsx         # App header component
-│   └── sidebar.jsx        # Navigation sidebar component
-├── public/                # Static assets
-└── tailwind.config.js     # Tailwind configuration
-\`\`\`
-
 ## Styling Approach
 
 The project uses Tailwind CSS for styling with the following considerations:
