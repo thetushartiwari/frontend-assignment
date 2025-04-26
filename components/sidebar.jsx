@@ -49,7 +49,7 @@ export default function Sidebar() {
           </li>
           <li>
             <Link href="#" className="flex items-center px-4 py-3 text-gray-300 hover:bg-[#1a4d67] rounded-md">
-              <span>Pending Questions</span> #notification badge
+{/*               <span>Pending Questions</span> #notification badge */}
               <span className="ml-auto bg-white text-[#0e3b52] rounded-full w-6 h-6 flex items-center justify-center text-xs font-medium">
                 3
               </span>
