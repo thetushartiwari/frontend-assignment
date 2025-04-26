@@ -1,4 +1,4 @@
-import { Settings } from "lucide-react"
+import { Settings } from "lucide-react" #icons
 
 export default function Header() {
   return (
