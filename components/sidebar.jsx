@@ -1,5 +1,6 @@
 import Link from "next/link"
 
+ // provides nav links to diff sections of dashoard
 export default function Sidebar() {
   return (
     <div className="w-60 bg-[#0e3b52] text-white flex flex-col h-full">
