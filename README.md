@@ -1,5 +1,7 @@
 # PopX Mobile App
 
+live link- https://frontend-assignment-three-wheat.vercel.app/
+
 A modern mobile application built with Next.js and React, featuring a beautiful UI and seamless user experience.
 
 ## Features
@@ -55,7 +57,3 @@ The project uses:
 - Tailwind CSS for styling
 - Radix UI for accessible components
 - Next.js for server-side rendering and routing
-
-## License
-
-MIT 
